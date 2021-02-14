@@ -140,6 +140,8 @@
 
 ### Bug Fixes and Minor Changes
 
+  * `XMonad.Hooks.DynamicLog`
+    - Added Dynamic Strings as `dynamicLogIconWithPP` based on a Workspaces Windows
   * `XMonad.Actions.DynamicProjects`
 
     - The `changeProjectDirPrompt` function respects the `complCaseSensitivity` field
